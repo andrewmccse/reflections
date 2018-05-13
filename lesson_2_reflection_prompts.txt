@@ -27,6 +27,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	The diagrams help by showing us when new branches were created and if they
+	have been merged together. They also help show us which commits are reachable
+	from a particular branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
